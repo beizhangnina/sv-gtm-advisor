@@ -1,10 +1,11 @@
 # 接入 SV GTM Advisor
 
-一个装着上千篇 GTM 文章和 7,000+ 张配图的知识库（每周新增），
+一个装着上千篇 GTM 文章和 8,000+ 张配图的知识库（每周新增），
 通过 MCP 接进你的 **Claude Code 和 / 或 Codex**，用文字就能搜。
 
 内容来源：Lenny's Newsletter、Growth Unhinged、Marketing Ideas、
-Fletch PMM（Before/After 定位对比）、MRR Unlocked，外加一批 GTM playbook。
+Fletch PMM（Before/After 定位对比）、MRR Unlocked、Behind the Craft、
+Elena's Growth Scoop、Growth Memo，外加一批 GTM playbook 和案例拆解。
 每周自动更新。
 
 ---
